@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Competiton_Solutions/primes_in_Range.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Same_Tree.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Validate_Binary_Tree_Nodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_Medium_Problems/Validate_Binary_Tree_Nodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Competiton_Solutions/Check_If_Happy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Competiton_Solutions/Check_If_Happy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode_Easy_Problems/Invert_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_Easy_Problems/Invert_Binary_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode_Easy_Problems/Pascals_Triangle_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_Easy_Problems/Pascals_Triangle_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode_Easy_Problems/Same_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_Easy_Problems/Same_Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode_Medium_Problems/Validate_Binary_Tree_Nodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_Medium_Problems/Validate_Binary_Tree_Nodes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +55,16 @@
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2WqmAbF2XTsmwjlrFU4hWZlMBNm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -76,9 +84,10 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetCode_Easy_Problems" />
+      <recent name="$PROJECT_DIR$/Competiton_Solutions" />
       <recent name="$PROJECT_DIR$/../LeetCode_Easy_Problems" />
       <recent name="$PROJECT_DIR$/LeetCode_Medium_Problems" />
-      <recent name="$PROJECT_DIR$/LeetCode_Easy_Problems" />
     </key>
   </component>
   <component name="RunManager">
@@ -86,6 +95,20 @@
       <option name="ALTERNATIVE_JRE_PATH" value="19" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="/Users/louisgrennell/Documents/GitHub/leet_code_solutions/Check_If_Happy.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primesInRange" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primesInRange" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="primes_in_Range" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="primes_in_Range" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -116,6 +139,8 @@
       <workItem from="1697618518367" duration="1622000" />
       <workItem from="1697630061365" duration="2758000" />
       <workItem from="1697633278175" duration="88000" />
+      <workItem from="1697633368620" duration="1252000" />
+      <workItem from="1697636932077" duration="3066000" />
     </task>
     <servers />
   </component>
@@ -133,7 +158,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="main" />
                       </list>
                     </value>
                   </entry>
@@ -144,6 +169,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

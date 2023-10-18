@@ -13,8 +13,8 @@
  *     }
  * }
  */
-class Solution {
-    public TreeNode invertTree(TreeNode root) {
+class Invert_Binary_Tree {
+    public static reverseOfBinaryTree(TreeNode root) {
         reverse(root); // call the reverse function
         return root; // return the root
     }

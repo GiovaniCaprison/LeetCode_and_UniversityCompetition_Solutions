@@ -1,5 +1,5 @@
 
-public class ValidateBinaryTreeNodes {
+class Validate_Binary_Tree_Nodes {
     public boolean validateBinaryTreeNodes(int n, int[] leftChild, int[] rightChild) {
         int[] hasParent = new int[n];
         boolean[] hasCycle = new boolean[n];

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Problem1 {
+class Check_If_Happy {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int checkHappy = scan.nextInt(); // User input
