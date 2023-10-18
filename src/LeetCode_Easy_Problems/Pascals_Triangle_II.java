@@ -1,3 +1,5 @@
+package LeetCode_Easy_Problems;
+
 import java.util.ArrayList;
 import java.util.List;
 

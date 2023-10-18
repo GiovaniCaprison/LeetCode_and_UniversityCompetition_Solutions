@@ -1,3 +1,5 @@
+package LeetCode_Easy_Problems;
+
 /**
  * Definition for a binary tree node.
  * public class TreeNode {

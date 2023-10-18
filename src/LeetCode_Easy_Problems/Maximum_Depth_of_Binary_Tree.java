@@ -1,3 +1,5 @@
+package LeetCode_Easy_Problems;
+
 class Maximum_Depth_of_Binary_Tree {
     public int DFS(TreeNode root) {
 

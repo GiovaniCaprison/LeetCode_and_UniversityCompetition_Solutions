@@ -1,3 +1,5 @@
+package Competiton_Solutions;
+
 import java.util.Scanner;
 class Check_If_Happy {
     public static void main(String[] args) {

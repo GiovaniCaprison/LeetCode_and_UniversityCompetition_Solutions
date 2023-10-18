@@ -1,3 +1,5 @@
+package Competiton_Solutions;
+
 import java.util.Scanner;
 import java.util.Arrays;
 class primes_in_Range {
