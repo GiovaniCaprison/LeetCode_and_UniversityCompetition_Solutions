@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Maximum_Depth_of_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +105,7 @@
       <workItem from="1697560739719" duration="1444000" />
       <workItem from="1697564056870" duration="324000" />
       <workItem from="1697618518367" duration="1622000" />
-      <workItem from="1697630061365" duration="1000000" />
+      <workItem from="1697630061365" duration="1676000" />
     </task>
     <servers />
   </component>
