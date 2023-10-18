@@ -16,10 +16,10 @@
 class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
 
-        if(p == null && q == null) return true;
+        if(p == null && q == null) return true; // Base case (we have reached the end of the tree)
 
-        if(p == null || q == null || p.val != q.val) return false;
+        if(p == null || q == null || p.val != q.val) return false; // Base case (TreeNodes do not match)
 
-        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right);
+        return isSameTree(p.left, q.left) && isSameTree(p.right, q.right); // Recursive Call (iterate through the branches until we reach a base case)
     }
 }
