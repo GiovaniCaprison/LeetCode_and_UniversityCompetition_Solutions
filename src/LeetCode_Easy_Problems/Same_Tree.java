@@ -16,7 +16,7 @@ package LeetCode_Easy_Problems;
  * }
  */
 class Same_Tree {
-    public boolean isSameTree(TreeNode p, TreeNode q) {
+    private boolean isSameTree(TreeNode p, TreeNode q) {
 
         if(p == null && q == null) return true; // Base case (we have reached the end of the tree)
 

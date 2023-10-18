@@ -9,12 +9,12 @@ class primes_in_Range {
         System.out.println("Enter the lower bound of the range: ");
         int lowerBound = scan.nextInt();
 
-        System.out.println("Enter the upper bound of the range: ")
+        System.out.println("Enter the upper bound of the range: ");
         int upperBound = scan.nextInt();
 
         if(lowerBound > upperBound) upperBound = lowerBound;
 
-        boolean [] arr = new boolean[upperBound - loweBound + 1];
+        boolean [] arr = new boolean[upperBound - lowerBound + 1];
 
         Arrays.fill(arr, true);
 
@@ -26,13 +26,13 @@ class primes_in_Range {
             }
         }
 
-        int count = 0, n = arr.length
+        int count = 0;
 
-        for(int i = 0; i < n; i++) {
-            if(arr[i]) {
+        for (boolean b : arr) {
+            if (b) {
                 count++;
             }
-            system.out.println("There are " + count + " prime numbers in the range [" + lowerBound + ", " + upperBound + "].")
+            System.out.println("There are " + count + " prime numbers in the range [" + lowerBound + ", " + upperBound + "].");
         }
     }
 }

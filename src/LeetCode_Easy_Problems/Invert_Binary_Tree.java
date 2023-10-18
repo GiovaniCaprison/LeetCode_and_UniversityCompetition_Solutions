@@ -16,11 +16,11 @@ package LeetCode_Easy_Problems;
  * }
  */
 class Invert_Binary_Tree {
-    public static reverseOfBinaryTree(TreeNode root) {
+    private static TreeNode reverseOfBinaryTree(TreeNode root) {
         reverse(root); // call the reverse function
         return root; // return the root
     }
-    static TreeNode reverse (TreeNode root) {
+    static TreeNode reverse(TreeNode root) {
 
         if(root == null) return root; // base case
 

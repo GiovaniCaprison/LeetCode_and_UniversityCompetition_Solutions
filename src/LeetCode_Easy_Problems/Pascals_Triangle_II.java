@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 class Pascals_Triangle_II {
-    public List<Integer> getRow(int targetRow) {
+    private List<Integer> getRow(int targetRow) {
 
         List<Integer> list = new ArrayList<>();
 
