@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Competiton_Solutions/primes_in_Range.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Competiton_Solutions/Check_If_Happy.java" beforeDir="false" afterPath="$PROJECT_DIR$/Competiton_Solutions/Check_If_Happy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode_Easy_Problems/Invert_Binary_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_Easy_Problems/Invert_Binary_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode_Easy_Problems/Pascals_Triangle_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_Easy_Problems/Pascals_Triangle_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode_Easy_Problems/Same_Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_Easy_Problems/Same_Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode_Medium_Problems/Validate_Binary_Tree_Nodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode_Medium_Problems/Validate_Binary_Tree_Nodes.java" afterDir="false" />
-    </list>
+    <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="update 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +82,7 @@
       <recent name="$PROJECT_DIR$/LeetCode_Medium_Problems" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.primes_in_Range">
     <configuration name="Problem1" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="19" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -141,7 +133,17 @@
       <workItem from="1697633278175" duration="88000" />
       <workItem from="1697633368620" duration="1252000" />
       <workItem from="1697636932077" duration="3066000" />
+      <workItem from="1697641987200" duration="624000" />
     </task>
+    <task id="LOCAL-00001" summary="update 1">
+      <option name="closed" value="true" />
+      <created>1697642605755</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697642605755</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +174,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 1" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
