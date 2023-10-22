@@ -3,7 +3,7 @@ package LeetCode_Easy_Problems;
 public class Roman_To_Integer {
     public int romanToInt(String s) {
 
-        // FIRST SOLUTION
+        // FIRST SOLUTION:
 
         /*// create hash map to store numerical values for the roman numerals.
         HashMap<Character, Integer> map = new HashMap<>();
@@ -34,8 +34,13 @@ public class Roman_To_Integer {
         // return our answer + the numeric value of the last char as our for loop does not reach s.(n).
         return ans + map.get(s.charAt(n)); */
 
+
+        
         // as per usual there is a more efficient answer, but it is less maintainable.
 
+
+        // SECOND SOLUTION:
+        
         // our logic here is the same as the previous solution, only we call helper instead of the HashMap.
         int ans = 0, n = s.length() - 1;
         for (int i = 0; i < n; i++) {
