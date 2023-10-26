@@ -26,3 +26,28 @@ public class Two_Sum {
         return new int [0];
     }
 }
+
+// Second Solution
+
+class Solution {
+    public int[] twoSum(int[] nums, int target) {
+        HashMap<Integer, Integer> map = new HashMap<>();
+        int j = nums.length -1, i = 0;
+        while(i <= j) {
+            int temp = target - nums[i];
+            if(!map.isEmpty() && map.containsKey(temp)) {
+                return new int [] {map.get(temp), i};
+            }
+            map.put(nums[i],i);
+
+            temp = target - nums[j];
+            if(!map.isEmpty() && map.containsKey(temp)) {
+                return new int [] {map.get(temp), j};
+            }
+            map.put(nums[j], j);
+            i++;
+            j--;
+        }
+        return null;
+    }
+}
