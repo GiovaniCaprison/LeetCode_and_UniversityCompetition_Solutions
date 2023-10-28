@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="DataStructures and Algorithms Lab" />
+    <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="Two Sum Second Solution">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2023,_17_29_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2023,_18_33_[Changes]1/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2023__17_29__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2023__18_33__Changes_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -128,6 +134,11 @@
       <workItem from="1698003419081" duration="4892000" />
       <workItem from="1698137559979" duration="2455000" />
       <workItem from="1698140021478" duration="81000" />
+      <workItem from="1698140268042" duration="178000" />
+      <workItem from="1698261892816" duration="93000" />
+      <workItem from="1698335026291" duration="87000" />
+      <workItem from="1698486096918" duration="71000" />
+      <workItem from="1698486175999" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="update 1">
       <option name="closed" value="true" />
@@ -209,7 +220,31 @@
       <option name="project" value="LOCAL" />
       <updated>1698140096575</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Coding Comp Week 2">
+      <option name="closed" value="true" />
+      <created>1698140443766</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698140443766</updated>
+    </task>
+    <task id="LOCAL-00012" summary="779. K-th Symbol in Grammar">
+      <option name="closed" value="true" />
+      <created>1698261978272</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1698261978272</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Two Sum Second Solution">
+      <option name="closed" value="true" />
+      <created>1698335108534</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1698335108534</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +287,10 @@
     <MESSAGE value="20. Valid Parentheses, 1. Two Sum" />
     <MESSAGE value="121. Best Time to Buy and Sell Stock" />
     <MESSAGE value="DataStructures and Algorithms Lab" />
-    <option name="LAST_COMMIT_MESSAGE" value="DataStructures and Algorithms Lab" />
+    <MESSAGE value="Coding Comp Week 2" />
+    <MESSAGE value="779. K-th Symbol in Grammar" />
+    <MESSAGE value="Two Sum Second Solution" />
+    <option name="LAST_COMMIT_MESSAGE" value="Two Sum Second Solution" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
