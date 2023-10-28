@@ -5,11 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="Two Sum Second Solution">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2023,_17_29_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2023,_18_33_[Changes]1/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2023__17_29__Changes_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_10_2023__18_33__Changes_1.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/Competiton_Solutions/Check_If_Happy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/Competiton_Solutions/Monte_Carlo_e.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/Competiton_Solutions/primes_in_Range.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/LeetCode_Easy_Problems/Backspace_String_Compare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/LeetCode_Easy_Problems/Best_Time_To_Buy_And_Sell_Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/LeetCode_Easy_Problems/Pascals_Triangle_II.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/LeetCode_Easy_Problems/Roman_To_Integer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/LeetCode_Easy_Problems/Two_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/LeetCode_Easy_Problems/Valid_Parentheses.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/LeetCode_Hard_Problems/Constrained_Subsequence_Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/LeetCode_Hard_Problems/Trapping_Rain_Water.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/LeetCode_Medium_Problems/Container_With_Most_Water.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/production/leet_code_solutions/Monte_Carlo_pi.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,7 +148,7 @@
       <workItem from="1698261892816" duration="93000" />
       <workItem from="1698335026291" duration="87000" />
       <workItem from="1698486096918" duration="71000" />
-      <workItem from="1698486175999" duration="319000" />
+      <workItem from="1698486175999" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="update 1">
       <option name="closed" value="true" />
