@@ -5,21 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="DataStructures and Algorithms Lab">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Duplicate_Zeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Find_Numbers_With_Even_Number_of_Digits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Max_Consecutive_Ones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Merge_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Merge_Strings_Alternately.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Remove_Duplicates_From_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Remove_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Sort_Number_By_Number_of_One_Bits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Squares_of_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Hard_Problems/Count_Vowel_Purmutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Hard_Problems/Poor_Pigs.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Find_The_Original_Array_of_Prefix_XOR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Group_Anagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Merge_Intervals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/ZigZag_Conversation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Find_All_Numbers_Disappeared_in_an_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Find_Mode_in_Binary_Search_Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Squares_of_a_Sorted_Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Third_Maximum_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Build_an_Array_With_Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Count_Nodes_Equal_to_Average_of_Subtree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Find_the_Winner_of_an_Array_Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Max_Consecutive_Ones_II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -103,11 +97,11 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\icant\OneDrive - City of Dublin ETB\Documents\GitHub\LeetCode_and_UniversityProblems\src\LeetCode_Hard_Problems" />
       <recent name="$PROJECT_DIR$/src" />
       <recent name="$PROJECT_DIR$/LeetCode_Easy_Problems" />
       <recent name="$PROJECT_DIR$/Competiton_Solutions" />
       <recent name="$PROJECT_DIR$/../LeetCode_Easy_Problems" />
+      <recent name="$PROJECT_DIR$/LeetCode_Medium_Problems" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -146,7 +140,6 @@
       <workItem from="1698137559979" duration="2455000" />
       <workItem from="1698140021478" duration="81000" />
       <workItem from="1698490110548" duration="117000" />
-      <workItem from="1698764084529" duration="1908000" />
     </task>
     <task id="LOCAL-00001" summary="update 1">
       <option name="closed" value="true" />
