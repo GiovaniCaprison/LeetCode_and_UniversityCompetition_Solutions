@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="DataStructures and Algorithms Lab">
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Find_All_Numbers_Disappeared_in_an_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Find_Mode_in_Binary_Search_Tree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Squares_of_a_Sorted_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Third_Maximum_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Build_an_Array_With_Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Count_Nodes_Equal_to_Average_of_Subtree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Find_the_Winner_of_an_Array_Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Last_Moment_Before_All_Ants_Fall_Out_of_a_Plank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Max_Consecutive_Ones_II.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Competiton_Solutions/Change_A_Given_Number_From_One_Base_To_Another.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Easy_Problems/Linked_List_Cycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LeetCode_Medium_Problems/Linked_List_Cycle_II.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
