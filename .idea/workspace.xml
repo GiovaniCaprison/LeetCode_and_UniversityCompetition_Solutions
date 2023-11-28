@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="DataStructures and Algorithms Lab">
-      <change afterPath="$PROJECT_DIR$/src/Competiton_Solutions/BuildQueue/FileIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Competiton_Solutions/BuildQueue/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8e7536d3-bb90-4038-a8af-df1d1824aca5" name="Changes" comment="DataStructures and Algorithms Lab" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -134,7 +130,7 @@
       <workItem from="1698140021478" duration="81000" />
       <workItem from="1698490110548" duration="117000" />
       <workItem from="1700085053967" duration="15000" />
-      <workItem from="1700563171101" duration="664000" />
+      <workItem from="1700563171101" duration="770000" />
     </task>
     <task id="LOCAL-00001" summary="update 1">
       <option name="closed" value="true" />
