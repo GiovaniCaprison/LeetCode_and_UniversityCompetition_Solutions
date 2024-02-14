@@ -33,7 +33,8 @@ public class Monte_Carlo_TheTraitors {
                 if(faithfulLeft > 0) {
                     faithfulLeft--;
                 }
-                if(traitorsLeft > 0 && faithfulLeft == 0) {
+                // Correcting the win condition logic
+                if (traitorsLeft > 0 && (faithfulLeft == 0 || traitorsLeft + faithfulLeft == 2)) {
                     tratorCount++;
                 }
             }
